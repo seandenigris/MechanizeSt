@@ -1,11 +1,13 @@
 {
 	"class" : {
-		"fromUrl:" : "SeanDeNigris 3/1/2014 22:12" },
+		"fromUrl:" : "SeanDeNigris 3/1/2014 22:12",
+		"fromUrl:client:" : "SeanDeNigris 3/2/2014 17:20" },
 	"instance" : {
-		"client" : "SeanDeNigris 3/1/2014 23:40",
+		"client" : "SeanDeNigris 3/2/2014 17:20",
+		"client:" : "SeanDeNigris 3/2/2014 17:21",
 		"formSatisfying:" : "SeanDeNigris 3/1/2014 22:14",
 		"forms" : "SeanDeNigris 3/1/2014 23:37",
 		"links" : "SeanDeNigris 3/2/2014 00:54",
-		"soup" : "SeanDeNigris 3/1/2014 22:20",
+		"soup" : "SeanDeNigris 3/2/2014 19:19",
 		"url" : "SeanDeNigris 3/1/2014 22:20",
 		"url:" : "SeanDeNigris 3/1/2014 22:13" } }

@@ -1,4 +1,7 @@
 as yet unclassified
 soup
 
-	^ soup ifNil: [ soup := Soup fromString: self url retrieveContents ]
+	| source |
+	soup ifNotNil: [ ^ soup ].
+	source := self client get: self url.
+	^ soup := Soup fromString: source.
