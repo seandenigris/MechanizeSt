@@ -1,0 +1,14 @@
+{
+	"category" : "Mechanize-Specification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MechanizeSpecification",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Mechanize",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"soupTag",
+		"page" ],
+	"name" : "MechForm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

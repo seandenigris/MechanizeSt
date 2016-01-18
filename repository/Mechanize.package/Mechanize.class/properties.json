@@ -1,0 +1,14 @@
+{
+	"category" : "Mechanize",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Mechanize",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

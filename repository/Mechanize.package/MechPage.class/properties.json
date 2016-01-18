@@ -1,0 +1,16 @@
+{
+	"category" : "Mechanize",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"url",
+		"soup",
+		"client" ],
+	"name" : "MechPage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
