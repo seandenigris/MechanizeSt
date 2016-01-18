@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMechanize",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMechanize",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
