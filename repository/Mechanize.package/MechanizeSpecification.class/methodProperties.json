@@ -2,4 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testGet" : "SeanDeNigris 3/2/2014 00:45" } }
+		"testGet" : "SeanDeNigris 3/2/2014 00:45",
+		"testLinkText" : "SeanDeNigris 3/2/2014 01:00",
+		"testLinkUrl" : "SeanDeNigris 3/2/2014 00:59",
+		"testLinks" : "SeanDeNigris 3/2/2014 00:52" } }
