@@ -8,7 +8,8 @@
 	"instvars" : [
 		"url",
 		"soup",
-		"client" ],
+		"client",
+		"source" ],
 	"name" : "MechPage",
 	"pools" : [
 		 ],
